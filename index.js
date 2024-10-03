@@ -3,7 +3,7 @@ const http = require('http');
 const socketIo = require('socket.io');
 const cors = require('cors');
 const path = require('path');
-const fs = require('fs'); // Подключаем модуль fs для работы с файлами
+const fs = require('fs'); // fs module for working with files
 
 const app = express();
 const server = http.createServer(app);
