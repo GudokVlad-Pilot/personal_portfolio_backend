@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "position": "2022-2023 Junior software engineer",
+        "title": "Mindhive Oy, Finland",
+        "logo": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg",
+        "duties": ["General Coding work for assigned tasks",
+        "Peer-code review for the colleagues" ]
+    },
+    {
+        "id": 2,
+        "position": "2022 Mobile Application Developer",
+        "title": "CargoLedger, Netherlands",
+        "logo": "https://cdn.pixabay.com/photo/2019/08/15/17/56/production-4408573_640.jpg",
+        "duties": ["Developing and maintaing the mobile application for custom officers",
+        "Presentation of the product"]
+    },
+    {
+        "id": 3,
+        "position": "2017-2019 IT consultant, flight instructor",
+        "title": "Young Astronauts Club named after G. S. Titov, Russia",
+        "logo": "https://images.pexels.com/photos/3862634/pexels-photo-3862634.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "duties": ["Assisting in autopilot implementatation for civil unmanned aircraft" ]
+    },
+    {
+        "id": 4,
+        "position": "Bachelor of Engineering, specialising in Information Technology",
+        "title": "South-Eastern University of Applied Sciences (XAMK)",
+        "logo": "https://learn.xamk.fi/theme/xlearn/pix/xamkfooter.png",
+        "duties": ["Software development and programming", "Networking", "IoT", "IT Security" ]
+    },
+    {
+        "id": 5,
+        "position": "Exchange program",
+        "title": "Amsterdam University of Applied Sciences (AUAS)",
+        "logo": "https://cdn.pixabay.com/photo/2015/05/28/14/53/ux-788002_1280.jpg",
+        "duties": ["Mobile Application Development", "Designing Mobile Experiences", "Project Mobile Development"]
+    }
+]

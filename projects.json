@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "application": "End-to-end test implementation for a SaaS platform",
+        "platform": "Bachelor's thesis",
+        "screenshot": "https://cdn.pixabay.com/photo/2017/06/28/10/23/binary-2450188_1280.jpg",
+        "description": [
+            "This thesis explores the role of automated testing frameworks, particularly End-to-end (E2E) testing, in the context of Software-as-a-Service (SaaS) platforms. It delves into the significance of automated testing in ensuring the quality and scalability of modern software, especially in the era of cloud services. The theoretical part covers the fundamentals of software production, testing methodologies, and the importance of automated testing pipelines. It also discusses various testing frameworks with a focus on E2E testing. The practical aspect of the thesis involves the implementation of an E2E test protocol for a SaaS platform, specifically developed for Mindhive Oy. This includes the development of testing protocols, a semi-automated pipeline, and user documentation. The thesis concludes with a detailed analysis of the implemented tests, pipeline, and suggestions for future improvements and generalizations of the developed methods to other E2E test frameworks."
+        ]
+    },
+    {
+        "id": 2,
+        "application": "The Lord of the Wedding Ring",
+        "platform": "Mobile (Android)",
+        "screenshot": "https://images.pexels.com/photos/1730877/pexels-photo-1730877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": [
+            "Initially, this is the application developed for newlyweds as a wedding gift. Later the application was transfered to the 'quest application template' to demonstrate the main idea of the app and it could be re-coded for another wedding.",
+            "Main features:",
+            "- Login with predefined username and password",
+            "- Possibility to hide/show password",
+            "- Selecting the statements with checkboxes",
+            "- Pictures viewing",
+            "- Video player with controls",
+            "- Receive inner notifications",
+            "- Step by step navigation through the app",
+            "Languages:",
+            "- Kotlin"
+        ]
+    },
+    {
+        "id": 3,
+        "application": "Personal page",
+        "platform": "Web Application",
+        "screenshot": "https://cdn.pixabay.com/photo/2018/04/20/21/10/code-3337044_960_720.jpg",
+        "description": [
+            "This web application done with React is somekind of my personal online portfolio. Here you can see my experience, projects and work. Also, you can get to know some information about me and my interests.",
+            "Main features:",
+            "- Navigation through the app",
+            "- Basic animation",
+            "- Hyperlinks",
+            "- Desktop version",
+            "- Mobile version (also available for small browser windows)",
+            "Languages:",
+            "- Typescript",
+            "- JavaScript",
+            "- CSS",
+            "- HTML"
+        ]
+    },
+    {
+        "id": 4,
+        "application": "Quest Creator (in development)",
+        "platform": "Mobile (Android)",
+        "screenshot": "https://img.freepik.com/free-photo/flat-lay-hand-holding-magnifying-glass_23-2149617673.jpg?t=st=1715428092~exp=1715431692~hmac=894741a54da8b4c96df6dfa5672d9b0a7515f91fe0ad2fb1ffe9965dfe5d2302&w=1060",
+        "description": [
+            "Mobile application based on 'The Lord of the Wedding Ring'. This is ongoing project which should become a tool for creating own quests.",
+            "Languages:",
+            "- Kotlin"
+        ]
+    }
+]

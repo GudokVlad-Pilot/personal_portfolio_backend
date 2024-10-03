@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Aviation",
+        "type": "Hobby",
+        "picture": "https://cdn.pixabay.com/photo/2020/06/24/14/59/aircraft-5336532_1280.jpg",
+        "description": ["I am keen on aviation.I passed flight training test and mastered different types of aircraft (Cessna 172, Beechcraft Baron 58, Beechcraft 1900C, An-2, ATR 72, Boeing 737NG). I have flown over 300 hours on simulators and had practised as a co-pilot on a real flight on Cessna 172 and Delfin-2. Now I am a member of the aeroclub 'Delfin'."]
+    },
+    {
+        "id": 2,
+        "name": "Astrophysics",
+        "type": "Hobby",
+        "picture": "https://cdn.pixabay.com/photo/2023/07/27/14/49/milky-way-8153503_1280.jpg",
+        "description": ["Astrophysics is a part of the astronomy. Observing night sky is wonderfull but what is more interesting is to know how does the Universe work. Performing calculatitions togeter with the observation help to keep the mind in fit and enjoy the beauty of space."]
+    },
+    {
+        "id": 3,
+        "name": "Music",
+        "type": "Diploma",
+        "picture": "https://images.pexels.com/photos/3971985/pexels-photo-3971985.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": ["In my childhood I was studying in music school. I learned how to play piano. Later I bought a guitar and still playing it. During my free time I enjoy play musical instruments and even write my own songs."]
+    },
+    {
+        "id": 4,
+        "name": "Volleyball",
+        "type": "Sport",
+        "picture": "https://cdn.pixabay.com/photo/2019/04/06/20/39/volleyball-4108313_1280.jpg",
+        "description": ["A healthy mind in a healthy body. Doing sports is good for health whatever your job is. As an IT specialist, I am sitting during my work. To keep my body in fit I decided to do sports. Volleyball is a good option as it allows to move the whole body during the game."]
+    }
+]
