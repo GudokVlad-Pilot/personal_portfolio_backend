@@ -4,15 +4,25 @@
         "position": "2022-2023 Junior software engineer",
         "title": "Mindhive Oy, Finland",
         "logo": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg",
-        "duties": ["General Coding work for assigned tasks",
-        "Peer-code review for the colleagues" ]
+        "duties": ["UI/UX implementation for Frontend",
+        "Database organization for Backend",
+        "API and RESTfull services integration to SaaS platforms",
+        "Developing full-screen version for SaaS platforms",
+        "IT consulting (CI/CD)",
+        "Peer-code review for the colleagues",
+        "Testing",
+        "Creating the testing framework (Bachelor's Thesis)"]
     },
     {
         "id": 2,
         "position": "2022 Mobile Application Developer",
         "title": "CargoLedger, Netherlands",
         "logo": "https://cdn.pixabay.com/photo/2019/08/15/17/56/production-4408573_640.jpg",
-        "duties": ["Developing and maintaing the mobile application for custom officers",
+        "duties": ["UI/UX design and implementation",
+        "Implementing the scanning part",
+        "Adding text-recognise system (AI)",
+        "Alternative implementation for manual input",
+        "Database structurising",
         "Presentation of the product"]
     },
     {
@@ -20,7 +30,11 @@
         "position": "2017-2019 IT consultant, flight instructor",
         "title": "Young Astronauts Club named after G. S. Titov, Russia",
         "logo": "https://images.pexels.com/photos/3862634/pexels-photo-3862634.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "duties": ["Assisting in autopilot implementatation for civil unmanned aircraft" ]
+        "duties": ["Teaching as a flight instructor",
+        "Conducting lectures for programming, navigation and astrophysics",
+        "Maintaining the simulator machine",
+        "Consulting on IT and aviation issues",
+        "Assisting in autopilot implementation for civil unmanned aircraft" ]
     },
     {
         "id": 4,

@@ -21,6 +21,9 @@ app.use(cors({
   credentials: true
 }));
 
+const photosPath = path.join(__dirname, 'photos'); //Chests path
+app.use('/photos', express.static(photosPath)); //Static files
+
 
 app.get("/activities", (req, res) => {
     fs.readFile('./activities.json', 'utf8', (err, data) => {
