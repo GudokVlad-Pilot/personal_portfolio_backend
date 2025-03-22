@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Plant Photo App",
+    "description": "The app that was created as a homework task during the interview process in one IT company. Photo Plant App is a simple application created with React Native. The idea of the app is to give user possibility to scan plants and add notes about them to own collection.",
+    "image": "PhotoPlantAppMockup.png"
+  },
+  {
+    "id": 2,
+    "name": "Template",
+    "description": "Lorem Ipsum",
+    "image": "PhotoPlantAppMockup.png"
+  }
+]
