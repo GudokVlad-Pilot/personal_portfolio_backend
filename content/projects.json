@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Plant Photo App",
+    "description": "The app that was created as a homework task during the interview process in one IT company. Photo Plant App is a simple application created with React Native. The idea of the app is to give user possibility to scan plants and add notes about them to own collection.",
+    "image": "photoplantapp1.png"
+  },
+  {
+    "id": 2,
+    "name": "MovieMatch",
+    "description": "\"Tinder\"-like mobile app for Android systems. The application is helping you and your friends to find a movie that you would enjoy. It fetches movies based on your taste and you can save them to your library. In addition, you can add friends there and if you liked the same movie it will offer you to watch it together.",
+    "image": "Moviematch1.png"
+  },
+  {
+    "id": 3,
+    "name": "The Lord of the Wedding Ring",
+    "description": "The application developed for newlyweds as a wedding gift. It has a simple step-by-step quest in which engaged people should solve quizzes, search for tips and finally meet each other to face the final challenge that will strenght their love union.",
+    "image": "wedding1.png"
+  },
+  {
+    "id": 4,
+    "name": "Nikodle",
+    "description": "Web application that was created as a birthday gift for my friend Niko. A birthday boy should guess several League of Legends champions with their images. Another task for him is to figure out which friend fits the description. At the end Niko receives the birthday card with some tricky suprises.",
+    "image": "nikodle1.png"
+  }
+]
