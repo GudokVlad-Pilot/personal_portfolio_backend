@@ -1,53 +1,64 @@
 [
-    {
-        "id": 1,
-        "position": "2022-2023 Junior software engineer",
-        "title": "Mindhive Oy, Finland",
-        "logo": "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_1280.jpg",
-        "duties": ["UI/UX implementation for Frontend",
-        "Database organization for Backend",
-        "API and RESTfull services integration to SaaS platforms",
-        "Developing full-screen version for SaaS platforms",
-        "IT consulting (CI/CD)",
-        "Peer-code review for the colleagues",
-        "Testing",
-        "Creating the testing framework (Bachelor's Thesis)"]
-    },
-    {
-        "id": 2,
-        "position": "2022 Mobile Application Developer",
-        "title": "CargoLedger, Netherlands",
-        "logo": "https://cdn.pixabay.com/photo/2019/08/15/17/56/production-4408573_640.jpg",
-        "duties": ["UI/UX design and implementation",
-        "Implementing the scanning part",
-        "Adding text-recognise system (AI)",
-        "Alternative implementation for manual input",
-        "Database structurising",
-        "Presentation of the product"]
-    },
-    {
-        "id": 3,
-        "position": "2017-2019 IT consultant, flight instructor",
-        "title": "Young Astronauts Club named after G. S. Titov, Russia",
-        "logo": "https://images.pexels.com/photos/3862634/pexels-photo-3862634.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        "duties": ["Teaching as a flight instructor",
-        "Conducting lectures for programming, navigation and astrophysics",
-        "Maintaining the simulator machine",
-        "Consulting on IT and aviation issues",
-        "Assisting in autopilot implementation for civil unmanned aircraft" ]
-    },
-    {
-        "id": 4,
-        "position": "Bachelor of Engineering, specialising in Information Technology",
-        "title": "South-Eastern University of Applied Sciences (XAMK)",
-        "logo": "https://learn.xamk.fi/theme/xlearn/pix/xamkfooter.png",
-        "duties": ["Software development and programming", "Networking", "IoT", "IT Security" ]
-    },
-    {
-        "id": 5,
-        "position": "Exchange program",
-        "title": "Amsterdam University of Applied Sciences (AUAS)",
-        "logo": "https://cdn.pixabay.com/photo/2015/05/28/14/53/ux-788002_1280.jpg",
-        "duties": ["Mobile Application Development", "Designing Mobile Experiences", "Project Mobile Development"]
-    }
+  {
+    "id": 1,
+    "position": "Software Developer",
+    "company": "eBrands",
+    "duties": [
+      "Creating map part for Apollo project",
+      "Developing Companion Mobile App for company's partners",
+      "Developing Mobile App Template",
+      "Performing presentations on new opportunities in tech field",
+      "Maintaining Frontend for Apollo",
+      "Creating queries for AWS platform (Backend)"
+    ],
+    "startdate": "2024-10-01",
+    "link": "https://www.ebrands.com/"
+  },
+  {
+    "id": 2,
+    "position": "Software Engineer",
+    "company": "F.Project",
+    "duties": [
+      "UI/UX implementation",
+      "Maintaining the company’s website",
+      "Developing mobile applications for education",
+      "Conducting lectures for programming and engineering for children",
+      "Consulting colleagues on technical opportunities regarding their work"
+    ],
+    "startdate": "2023-07-01",
+    "link": "https://www.instagram.com/f.project.art/"
+  },
+  {
+    "id": 3,
+    "position": "Junior Software Engineer",
+    "company": "Mindhive Oy",
+    "duties": [
+      "UI/UX implementation for Frontend",
+      "Database organization for Backend",
+      "API and RESTfull services integration to SaaS platforms",
+      "Developing full-screen version for SaaS platforms",
+      "IT consulting (CI/CD)",
+      "Peer-code review for the colleagues",
+      "Testing",
+      "Creating the testing framework (Bachelor's Thesis)"
+    ],
+    "startdate": "2022-08-01",
+    "link": "https://www.mindhive.fi/"
+  },
+  {
+    "id": 4,
+    "position": "Mobile Developer",
+    "company": "CargoLedger",
+    "duties": [
+      "UI/UX design and implementation",
+      "Implementing the scanning part",
+      "Adding text-recognise system (AI)",
+      "Alternative implementation for manual input",
+      "IT consulting (CI/CD)",
+      "Database structurising",
+      "Presentation of the product"
+    ],
+    "startdate": "2022-02-01",
+    "link": "https://cargoledger.nl/"
+  }
 ]
