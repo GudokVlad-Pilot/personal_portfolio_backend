@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "size": "Major",
+    "university": "South-Eastern Finland University of Applied Sciences",
+    "degree": "Bachelor of Engineering, Information Technology",
+    "dates": "2019-2023",
+    "link": "https://www.xamk.fi/en/",
+    "studies": [
+      "Professional learning skills",
+      "Network service environment",
+      "Terminology and communication",
+      "Secure ICT environment",
+      "Basics of electronic engineering",
+      "Local area networks and services",
+      "Software development and programming",
+      "Wide area networks and the internet",
+      "IoT technologies",
+      "ICT projects and applications",
+      "Language and communication studies"
+    ]
+  },
+  {
+    "id": 2,
+    "size": "Minor",
+    "university": "Amsterdam University of Applied Sciences",
+    "degree": "Exchange program in Mobile Application Development",
+    "dates": "2022",
+    "link": "https://www.amsterdamuas.com/",
+    "studies": [
+      "Mobile Application Development",
+      "Designing Mobile Experiences",
+      "Project Mobile Development"
+    ]
+  }
+]
