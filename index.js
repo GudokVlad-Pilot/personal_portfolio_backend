@@ -50,6 +50,18 @@ app.get("/experiences", (req, res) => {
   });
 });
 
+app.get("/education", (req, res) => {
+  fs.readFile("./content/education.json", "utf8", (err, data) => {
+    if (err) {
+      console.error("Error reading education.json:", err);
+      res.status(500).send("Internal Server Error");
+    } else {
+      const education = JSON.parse(data);
+      res.json(education);
+    }
+  });
+});
+
 app.get("/projects", (req, res) => {
   fs.readFile("./content/projects.json", "utf8", (err, data) => {
     if (err) {
