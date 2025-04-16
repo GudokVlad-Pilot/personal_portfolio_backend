@@ -1,19 +1,19 @@
 const express = require("express");
-const http = require("http");
-const socketIo = require("socket.io");
+// const http = require("http");
+// const socketIo = require("socket.io");
 const cors = require("cors");
 const path = require("path");
 const fs = require("fs"); // fs module for working with files
 
 const app = express();
-const server = http.createServer(app);
-const io = socketIo(server, {
-  cors: {
-    origin: ["https://gudokvlad.netlify.app", "http://localhost:3000"],
-    methods: ["GET", "POST"],
-    credentials: true,
-  },
-});
+// const server = http.createServer(app);
+// const io = socketIo(server, {
+//   cors: {
+//     origin: ["https://gudokvlad.netlify.app", "http://localhost:3000"],
+//     methods: ["GET", "POST"],
+//     credentials: true,
+//   },
+// });
 
 app.use(
   cors({
@@ -74,6 +74,6 @@ app.get("/projects", (req, res) => {
   });
 });
 
-server.listen(5000, () => {
-  console.log("Server is running on port http://localhost:5000");
-});
+// server.listen(5000, () => {
+//   console.log("Server is running on port http://localhost:5000");
+// });
